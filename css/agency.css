@@ -148,14 +148,14 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
     padding: 20px 40px;
-    border-color: #A52323;
+    border-color: #fed136;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #A52323;
+    background-color: #fed136;
 }
 
 .btn-xl:hover,
@@ -523,7 +523,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #D67F7F;
+    background-color: #fdd686;
 }
 
 .timeline>li .timeline-image h4 {
